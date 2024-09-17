@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 const Header = () => (
     <header>
-        <h1>Expensify</h1>
+        <h1>Monetty</h1>
         <NavLink
             className={({ isActive }) => (isActive ? "is-active" : undefined)}
             end
