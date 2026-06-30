@@ -8,7 +8,9 @@
     "dev-server": "webpack serve --mode development",
     "build:dev": "webpack --mode development",
     "build:prod": "webpack --mode production",
-    "test": "jest"
+    "test": "jest",
+    "netlify:deploy": "netlify deploy --dir=public --prod",
+    "netlify:link": "netlify link"
   },
   "author": "",
   "license": "ISC",
