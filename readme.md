@@ -1,41 +1,5 @@
-<p align="center">
-  <svg width="800" height="220" viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <!-- Gradient definition -->
-    <defs>
-      <linearGradient id="sand-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#fffaf2"/>
-        <stop offset="60%" stop-color="#f4efe6"/>
-        <stop offset="100%" stop-color="#fcebcf"/>
-      </linearGradient>
-      <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
-        <feDropShadow dx="2" dy="6" stdDeviation="8" flood-color="#422205" flood-opacity="0.08"/>
-      </filter>
-    </defs>
-    <rect width="800" height="220" rx="20" fill="url(#sand-grad)" filter="url(#shadow)"/>
-    <!-- Decorative Terracotta Accents -->
-    <circle cx="700" cy="180" r="120" fill="#fee2a8" opacity="0.3"/>
-    <circle cx="80" cy="50" r="90" fill="#f4c8a2" opacity="0.25"/>
-    <path d="M 640 0 C 680 40, 720 30, 800 50 L 800 0 Z" fill="#d7582b" opacity="0.08"/>
-    <!-- Logo / Coin Vector -->
-    <g transform="translate(70, 75)">
-      <!-- Golden Glow -->
-      <circle cx="40" cy="40" r="32" fill="#fee2a8"/>
-      <!-- Terracotta Wallet / Coin base -->
-      <rect x="20" y="30" width="45" height="30" rx="6" fill="#d7582b"/>
-      <path d="M 30 30 L 30 20 C 30 16, 36 12, 42 12 C 48 12, 54 16, 54 20 L 54 30" stroke="#9a3b24" stroke-width="4" stroke-linecap="round" fill="none"/>
-      <!-- Metallic Coin -->
-      <circle cx="42" cy="20" r="10" fill="#fee2a8" stroke="#d7582b" stroke-width="3"/>
-      <circle cx="42" cy="20" r="5" fill="#d7582b"/>
-    </g>
-    <!-- Typography -->
-    <!-- Title "MONETY" -->
-    <text x="175" y="115" font-family="Fraunces, Georgia, serif" font-size="64" font-weight="bold" fill="#1f1a14" letter-spacing="4">M O N E T Y</text>
-    <!-- Subtitle / Tagline -->
-    <text x="178" y="152" font-family="Space Grotesk, Trebuchet MS, sans-serif" font-size="16" font-weight="500" fill="#5a534a">A gorgeous React &amp; Redux-powered expense management system.</text>
-    <!-- Small Status Tag -->
-    <rect x="178" y="45" width="95" height="22" rx="11" fill="#d7582b"/>
-    <text x="225" y="60" font-family="Space Grotesk, Trebuchet MS, sans-serif" font-size="10" font-weight="bold" fill="#fffaf2" text-anchor="middle">v1.0.0 ACTIVE</text>
-  </svg>
+<p align="center" style="font-size:64px;font-family:bold">
+  Monety
 </p>
 
 <p align="center">
