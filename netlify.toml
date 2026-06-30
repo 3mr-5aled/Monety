@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = "public"
+  publish = "/public"
 
 # Single Page App redirect — serve index.html for all routes
 [[redirects]]
