@@ -1,6 +1,5 @@
-<p align="center" style="font-size:64px;font-family:bold">
-  Monety
-</p>
+# 💵 Monety
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-16.14.0-d7582b?style=for-the-badge&logo=react&logoColor=fffaf2" alt="React Badge"/>
