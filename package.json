@@ -1,5 +1,5 @@
 {
-  "name": "Expennsify-app",
+  "name": "Monety-app",
   "version": "1.0.0",
   "description": "<!-- convert  react to js on save-->\r npx babel src/app.js --out-file=public/scripts/app.js --presets=babel-preset-env,babel-preset-react --watch\r <!-- activate live-server -->\r live-server",
   "main": "index.js",
